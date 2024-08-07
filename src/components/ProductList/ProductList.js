@@ -109,7 +109,7 @@ const ProductList = ({ products }) => {
                   )}...`}</h5>
                   <div className="like-container">
                     <p className="product-status">
-                      <a className="sign-in" href="#">
+                      <a className="sign-in" href="/">
                         Sign in{" "}
                       </a>
                       {`${product.status}`}
